@@ -40,13 +40,13 @@ To formulate and empirically test a methodology for **internalising greenhouse g
 ---
 
 ## Key Results
-| Indicator | Case 1 (Non-Internalised) | Case 2 (Internalised via EPR) | % Change |
-|------------|---------------------------|-------------------------------|----------|
-| Output (Value Added) | Baseline | ↓ 3.8% per unit EPR | -3.8% |
-| Total Factor Productivity (TFP) Growth | — | +0.8% per annum | +19% |
-| Technical Change (TC) | — | +28% | +28% |
-| Scale Efficiency Change (SC) | — | -15% | -15% |
-| Technical Efficiency Change (EC) | — | -7% | -7% |
+| Indicator | Case 2 (Internalised via EPR) | % Change |
+|------------|-------------------------------|----------|
+| Output (Value Added) | ↓ 3.8% per unit EPR | -3.8% |
+| Total Factor Productivity (TFP) Growth | +0.8% per annum | +19% |
+| Technical Change (TC) | +28% | +28% |
+| Scale Efficiency Change (SC) | -15% | -15% |
+| Technical Efficiency Change (EC) | -7% | -7% |
 
 These results confirm that internalising emissions through the EPR framework enhances long-term productivity growth by incentivising technical progress, despite short-term reductions in output efficiency.
 
@@ -54,11 +54,11 @@ These results confirm that internalising emissions through the EPR framework enh
 
 ## Repository Structure
 📂 OECD_NZ_Analysis/
-├── OECD_NZ_Analysis_Complete.do # Stata script for full econometric analysis
-├── MSc Business Project Dissertation- Giwa Iziomo.pdf # Project dissertation (available on request0
-├── data/ # (optional) placeholder for OECD datasets (available on request)
-├── results/ # model output tables, logs, and figures (available on request)
-└── README.md # project documentation (this file)
+- OECD_NZ_Analysis_Complete.do # Stata script for full econometric analysis
+- MSc Business Project Dissertation- Giwa Iziomo.pdf # Project dissertation (available on request0
+- data/ # (optional) placeholder for OECD datasets (available on request)
+- results/ # model output tables, logs, and figures (available on request)
+- README.md # project documentation (this file)
 
 ---
 
