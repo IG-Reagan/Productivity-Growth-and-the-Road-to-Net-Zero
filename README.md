@@ -56,7 +56,7 @@ These objectives collectively aim to establish a quantitative framework for anal
 
 ---
 
-## Tools and Dependencies
+## Tools and Methods
 
 - **Software:**  
   Stata 17 SE
@@ -109,17 +109,12 @@ Available upon request
 
 ---
 
-## Tools and Dependencies
-- **Software:** Stata 17 SE  
-- **Econometric Methods:** Pooled COLS, Random Effects  
-- **Statistical Tests:** Hausman test, normality and multicollinearity diagnostics  
-- **Data Format:** Panel data (country × year)  
-
----
-
 ## Manuscript in Preparation
-This research is being extended into a **peer-reviewed manuscript** exploring the role of environmental internalisation in productivity measurement across industrial economies.  
-The forthcoming paper will expand the econometric model and test alternative internalisation parameters and carbon price scenarios.
+This research is being extended into a **peer-reviewed manuscript** that further develops the **Environmental Profitability Requirement (EPR)** as a model for internalising undesirable outputs—specifically **greenhouse gas (GHG) emissions**—within productivity and efficiency measurement frameworks across industrial sectors.  
+
+The forthcoming paper will examine how the **EPR model** compares with traditional **carbon-pricing mechanisms** in advancing net-zero objectives, particularly in ensuring that emission sources bear full responsibility for neutralising their emissions.  
+
+It will also analyse how internalising GHG emissions through the EPR framework influences **productivity growth trajectories**, while **benchmarking sectoral performance** across countries to identify best-practice efficiencies and outline pathways for improvement based on peer comparisons.
 
 ---
 
