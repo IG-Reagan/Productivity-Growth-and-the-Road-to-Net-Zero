@@ -40,15 +40,7 @@ To formulate and empirically test a methodology for **internalising greenhouse g
 ---
 
 ## Key Results
-| Indicator | Case 2 (Internalised via EPR) | % Change |
-|------------|-------------------------------|----------|
-| Output (Value Added) | ↓ 3.8% per unit EPR | -3.8% |
-| Total Factor Productivity (TFP) Growth | +0.8% per annum | +19% |
-| Technical Change (TC) | +28% | +28% |
-| Scale Efficiency Change (SC) | -15% | -15% |
-| Technical Efficiency Change (EC) | -7% | -7% |
-
-These results confirm that internalising emissions through the EPR framework enhances long-term productivity growth by incentivising technical progress, despite short-term reductions in output efficiency.
+Available upon request
 
 ---
 
