@@ -1,7 +1,6 @@
 # Productivity-Growth-and-the-Road-to-Net-Zero
 Evaluating the Impact of Internalizing Undesirable Outputs (GHG) in the Productivity Growth and Efficiency of the Manufacturing &amp; Construction Sector, using Econometric approach on Panel Data from 21 OECD Countries.
 
-Abstract
 In this study the manufacturing and construction sector in 21 OECD countries are considered between the years 2010 – 2017. The project aims to evaluate the impact of internalizing greenhouse gas (GHG) emissions on the productivity growth of the sector,
 using econometric approaches to analyse a suitable panel data. Also, the project intends to formulate a methodology for internalizing GHG emissions in a production function for effectively analysing efficiency and productivity growth of the sector. The data is collated from the OECD STAN and OECD.Stat databases, using gross capital stock, labour total hours worked, and gross value added as standard measures. GHG emissions specifically for the sector are also obtained for the time period being considered. The project then applies econometric approaches to select a functional form that is Cobb-Douglas and applies this function in selecting two estimators.
 
