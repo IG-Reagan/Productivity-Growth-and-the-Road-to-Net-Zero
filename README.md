@@ -1,18 +1,50 @@
 # Productivity Growth and the Road to Net Zero
+## Internalising Greenhouse Gas Emissions in Productivity Growth — OECD Manufacturing & Construction Sectors (2010–2017)
 
-## Internalising Greenhouse Gas Emissions in Productivity Growth Analysis — OECD Manufacturing & Construction Sectors (2010–2017)
-Evaluating the Impact of Internalising Undesirable Outputs (GHG) in the Productivity Growth and Efficiency of the Manufacturing & Construction Sectors, using Econometric approach on Panel Data from 21 OECD Countries.
+Evaluating the Impact of Internalising Undesirable Outputs (i.e., GHG) in the Productivity Growth and Efficiency of the Manufacturing & Construction Sectors, using Econometric approach on Panel Data from 21 OECD Countries.
 
 ## Abstract
-In this study the manufacturing and construction sector in 21 OECD countries are considered between the years 2010 – 2017. The project aims to evaluate the impact of internalizing greenhouse gas (GHG) emissions on the productivity growth of the sector,
-using econometric approaches to analyse a suitable panel data. Also, the project intends to formulate a methodology for internalizing GHG emissions in a production function for effectively analysing efficiency and productivity growth of the sector. The data is collated from the OECD STAN and OECD.Stat databases, using gross capital stock, labour total hours worked, and gross value added as standard measures. GHG emissions specifically for the sector are also obtained for the time period being considered. The project then applies econometric approaches to select a functional form that is Cobb-Douglas and applies this function in selecting two estimators.
 
-The Pooled COLS and Random Effects estimators are then applied to internalize GHG emissions into the production function, using a formulated factor known as Environmental Profitability Requirement (EPR). An output aggregation method is also tested using a Carbon Price of US $60 per tCO2e as a mechanism for aggregating with the gross value added, based on the midpoint of 2020 average carbon prices US $40-80, by the IPCC. Aligned with reservations in literature, the carbon price aggregation is seen to have almost no effect in the model. While the EPR method successfully depicted the effect of environmental constraints versus output sustainability in the production system. The final model is then used to estimate Total Factor Productivity (TFP) growth, comparing a real case where GHG emissions were not internalized in the years 2010 – 2017 (Case 1) with another case where GHG emissions are internalized during those years using the EPR factor (Case 2). The result shows that EPR is negatively correlated with the output (value added), and each unit of EPR increase will cause a reduction of a unit output by -3.8%. However, despite the negative effect of EPR on output, TFP growth is seen to be impacted positively with an additional growth rate of 0.8% per annum due to internalizing GHG emissions, which is essentially a 19% faster TFP growth compared to Case 1. The main source of this TFP growth is seen to be technical change (TC) growing 28% faster than the TC in Case 1.  However, this technical change growth is slightly upset by a lower scale efficiency change (SC) of -15% and technical efficiency change (EC) of -7% compared to Case 1. These results are comprehensively discussed in the project report.
+The study analyses the **manufacturing and construction sectors** of **21 OECD countries** between **2010 and 2017** to evaluate the impact of **internalising greenhouse gas (GHG) emissions** on productivity growth. Using econometric modelling and panel data analysis, the research develops and tests a novel methodology for incorporating environmental externalities directly into a production function.
+
+The data were sourced from the **OECD STAN** and **OECD.Stat** databases and then combined to create a panel data set which includes key production variables, i.e., **gross capital stock**, **labour total hours worked**, **gross value added**, and **sector-specific GHG emissions**. After comparing multiple specifications, a **Cobb–Douglas functional form** was selected as the most suitable representation of the sector’s production process.
+
+A new factor, the **Environmental Profitability Requirement (EPR)**, was formulated and introduced as a mechanism for internalising GHG emissions within the production function. The EPR represents the degree to which environmental constraints influence economic output, providing a more realistic reflection of production efficiency under sustainability pressures. The EPR method was compared with a conventional **carbon-pricing aggregation approach**, which applied a uniform price of **USD $60 per tCO₂e** — the midpoint of the IPCC’s 2020 carbon price range. Consistent with limitations observed in the literature, the carbon-pricing method showed negligible effects on productivity measurement. In contrast, the EPR framework proved significantly more effective in capturing the trade-off between environmental constraints and output sustainability.
+
+The econometric analysis was conducted using **Pooled Corrected Ordinary Least Squares (COLS)** and **Random Effects (RE)** estimators across two scenarios:
+- **Case 1:** Production function without internalised GHG emissions  
+- **Case 2:** Production function with GHG emissions internalised through EPR  
+
+Results indicate that the **EPR** is negatively correlated with output, where each unit increase in EPR reduces value added by approximately **3.8%**. Despite this short-term reduction, the internalisation of GHG emissions led to a **positive acceleration in Total Factor Productivity (TFP) growth**, averaging **0.8% per annum** — a **19% faster rate** compared to Case 1. The main contributor to this improvement was **technical change (TC)**, which increased by **28%**, though partially offset by declines in **scale efficiency change (SC)** (−15%) and **technical efficiency change (EC)** (−7%).
+
+The analysis also segregates the 21 OECD countries into four clusters of peers based on average annual values of **hours worked, capital stock, value added,** and **GHG emissions**. The clusters are classified as **“Very Large Economies,” “Large Economies,” “Medium Economies,”** and **“Small Economies.”** Each cluster identifies the most efficient unit within its group and benchmarks other peers against it, providing insights on how economies can emulate efficient counterparts and improve performance without the confounding effect of scale size.
+
+Overall, the **EPR framework** demonstrates a more accurate and dynamic means of assessing environmental integration in production analysis than traditional carbon-price aggregation. It provides a methodological foundation for future studies on **green productivity**, enabling policymakers and economists to quantify how sustainability-driven constraints can stimulate technological advancement and efficiency growth within industrial systems. 
 
 ---
 
-## Objective
-To formulate and empirically test a methodology for **internalising greenhouse gas emissions** in productivity and efficiency analysis, using an econometric production function framework for OECD manufacturing and construction sectors.
+## Research Objectives
+
+The primary objective of this study was to examine how **internalising undesirable outputs**, such as **greenhouse gas (GHG) emissions**, affects **productivity growth** and **efficiency** within the **manufacturing and construction sectors** of **21 OECD member countries** over the period **2010–2017**.
+
+To achieve this, the research pursued the following specific objectives:
+
+1. **Data Construction:**  
+   Built a comprehensive panel dataset from secondary sources, integrating economic and environmental indicators — including gross capital stock, labour hours worked, gross value added, and sector-specific GHG emissions — for the 21 OECD countries over an 8-year period.
+
+2. **Econometric Analysis:**  
+   Applied panel data econometric methods to estimate production functions **before and after internalising GHG emissions**, using a novel internalisation model formulated and compare outcomes against a carbon-pricing approach.
+
+3. **Productivity Measurement:**  
+   Measure and decompose **Total Factor Productivity (TFP) growth** into its components — technical change (TC), efficiency change (EC), and scale change (SC) — to assess how environmental internalisation influences sectoral performance.
+
+4. **Efficiency Benchmarking:**  
+   Classified the 21 OECD countries into **four peer clusters** (“Very Large,” “Large,” “Medium,” and “Small” Economies) based on capital, labour, emissions, and output. Identified the most efficient peer within each group and benchmarked other countries in the group to highlight pathways for improving productivity and environmental performance independent of scale size.
+
+5. **Contextual Literature Review:**
+   Conducted a critical review of current research, policy frameworks, and technological innovations supporting the **net-zero transition** and **environmental efficiency** in industrial systems.
+
+These objectives collectively aim to establish a quantitative framework for analysing **green productivity** — demonstrating how integrating environmental constraints into traditional production analysis can yield more accurate and policy-relevant insights into sustainable economic growth.
 
 ---
 
@@ -24,18 +56,41 @@ To formulate and empirically test a methodology for **internalising greenhouse g
 
 ---
 
-## Methodology
-- **Language:** Stata  
-- **Functional Form:** Cobb–Douglas production function  
-- **Estimators Used:**  
-  - Pooled Corrected Ordinary Least Squares (COLS)  
-  - Random Effects (RE)  
-- **Key Analytical Steps:**  
-  1. Data cleaning and normalisation of sectoral data across 21 OECD countries  
-  2. Testing of functional forms (log-linear vs translog) for suitability  
-  3. Development of the Environmental Profitability Requirement (EPR) factor  
-  4. Estimation of production functions with and without internalised emissions  
-  5. Decomposition of TFP growth into Technical Change (TC), Efficiency Change (EC), and Scale Change (SC)  
+## Tools and Dependencies
+
+- **Software:**  
+  Stata 17 SE
+
+- **Econometric and Statistical Methods:**  
+  - **Functional Form Selection:**  
+    Compared **Cobb–Douglas** and **Translog** production functions using regression diagnostics (heteroskedasticity, multicollinearity, and misspecification tests). The Cobb–Douglas form was selected as the most parsimonious and interpretable.
+  - **Deterministic Frontier Models:**  
+    - **Pooled Corrected Ordinary Least Squares (COLS)**  
+    - **Modified Ordinary Least Squares (MOLS)** (half-normal and exponential inefficiency assumptions)  
+    Used to estimate baseline efficiency and productivity without accounting for stochastic noise.
+  - **Stochastic Frontier Analysis (SFA):**  
+    Conducted both **time-invariant** (`xtfrontier`) and **time-varying** (`sfpanel, model(bc95)`) panel SFA models to decompose the error term into inefficiency (u) and random error (v).  
+    The **Battese and Coelli (1995)** specification was used for the time-varying model, providing insights into changes in efficiency over time.
+  - **Panel Data Models:**  
+    - **Fixed Effects (FE)** and **Random Effects (RE)** models (`xtreg, fe` / `xtreg, re`) were applied to capture unobserved heterogeneity across countries and over time.  
+    - The RE model was preferred for efficiency ranking because it provided **time-varying inefficiency per country-year**, aligning better with the study’s objectives.
+  - **Total Factor Productivity (TFP) Decomposition:**  
+    Derived using the **sfbook** Stata package to separate **Technical Change (TC)**, **Scale Change (SC)**, and **Efficiency Change (EC)** components.
+
+- **Statistical Tests and Diagnostics:**  
+  - **Breusch–Pagan test (`estat hettest`)** – for heteroskedasticity  
+  - **White’s test (`estat imtest, white`)** – for general heteroskedasticity  
+  - **Variance Inflation Factor (VIF)** – for multicollinearity  
+  - **Ramsey RESET test (`estat ovtest`)** – for model misspecification  
+  - **Kernel Density and Skewness/Kurtosis tests (`kdensity`, `sktest`)** – for normality and skewness in residuals  
+  - **Likelihood Ratio (LR) test** – to compare restricted and unrestricted SFA models following **Kodde and Palm (1986)**  
+  - **Hausman test** – to determine whether FE or RE models were more appropriate for the panel data  
+  - **Usigma ratio test** – to assess the share of inefficiency in total variance (`σᵤ² / (σᵤ² + σᵥ²)`)
+
+- **Data Structure:**  
+  - Balanced **panel data (Country × Year)**  
+  - **21 OECD countries**, **8-year period (2010–2017)**  
+  - Key variables: Gross Value Added, Labour Hours, Capital Stock, and GHG Emissions  
 
 ---
 
